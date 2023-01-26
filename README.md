@@ -1,4 +1,7 @@
-Hi I'm Masahiro Tanaka 
+Hello there! 
+I'm Masahiro Tanaka
+I'm a student of Computer Engineering of Tohoku University in Japan
+
 
 [![ninben0129's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninben0129&theme=vue-dark&show_icons=true)](https://github.com/ninben0129/github-readme-stats)
 
